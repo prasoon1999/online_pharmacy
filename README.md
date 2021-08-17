@@ -1,5 +1,6 @@
-# online_pharmacy
-C++ program that prescribes medicines based on the symptoms.
-Trie data structure stores the disease symptoms.
-The best matching medicine is searched in the arbitrary tree using breadth first search.
-Maintains user and seller database, with login functionality.
+# Online pharmacy
+**C++ program that prescribes medicines based on symptoms.**
+- Data management of buyer and seller.
+- Buyer orders are shared with sellers.
+- Multi-linked lists store the diseases.
+- Compressed trie stores the medicines names for quick search.
